@@ -1,4 +1,4 @@
-# Ethernet Emulation (Rust)
+# Ethernet Emulation
 
 This project is a very basic emulation of Ethernet devices and Ethernet II frames.
 
